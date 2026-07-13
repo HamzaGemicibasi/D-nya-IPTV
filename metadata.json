@@ -1,0 +1,6 @@
+{
+  "name": "Dünya IPTV",
+  "description": "Dünya çapındaki IPTV kanallarını oynatmak için tasarlanmış modern, şık bir IPTV oynatıcı uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
